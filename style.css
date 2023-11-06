@@ -30,7 +30,7 @@ body {
     width: 100%;
     min-height: 100vh;
     max-height: 100vh;
-    filter: brightness(60%);
+    filter: brightness(98%);
     background-image: url('./images/desktop/image-hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +44,7 @@ body {
 }
 
 .header:hover {
-    filter: brightness(94%);
+    filter: brightness(100%);
 }
 
 .navbar {
